@@ -1,0 +1,5 @@
+{
+  "name": "Chez Madeleine - Rouffach",
+  "description": "Gîte de charme au cœur du centre historique de Rouffach, Alsace. Maison du 14ème siècle rénovée.",
+  "requestFramePermissions": ["geolocation"]
+}
